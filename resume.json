@@ -1,0 +1,57 @@
+{
+	"basics": {
+		"name": "KUNDAN KUMAR",
+		"label": "Student",
+		"picture": "https://avatars.githubusercontent.com/u/82524425?s=400&u=e7987b09fef7d27dc1c1101c55cf1b937ea80e9b&v=4",
+		"email": "kun9577@gmail.com",
+		"phone": "8873232082",
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Electronics'and Communication Engineering. Building awesome WebApp. I have enthusiasm in Full Stack development.",
+		"location": {
+			"address": "Wz204 Uttam Nagar",
+			"postalCode": "110059",
+			"city": "New Delhi",
+			"countryCode": "India",
+			"region": "Delhi"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "kundan44555",
+				"url": "https://www.twitter.com/kundan44555"
+			},
+			{
+				"network": "Github",
+				"username": "handle",
+				"url": "https://github.com/kundan44555"
+			},
+			{
+				"network": "linkedin",
+				"username": "username",
+				"url": "https://www.linkedin.com/in/<username>/"
+			},
+			{
+				"network": "Instagram",
+				"username": "handle",
+				"url": "https://www.instagram.com/kundan44555/"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2020-12-02 //Date",
+		"endDate": "2024",
+		"courses": [
+			"Electronics'and Communication Engineering"
+		]
+	}],
+	"skills": [{
+		"level": "Master",
+		"keywords": ["HTML", "CSS", "Javascript", "C/C++", "Add more"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Cricket"]
+	}],
+	"references": []
+}
